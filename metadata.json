@@ -1,0 +1,6 @@
+{
+  "name": "MSME Financial Health Card Platform",
+  "description": "An AI-powered MSME Financial Health Card platform that aggregates GST, UPI, Account Aggregator, EPFO, and alternate data, computing a multidimensional financial health score and enabling real-time credit assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
